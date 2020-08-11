@@ -14,5 +14,5 @@ A manera de ejercicio fundacional, y con el objeto de aprender sobre el uso del 
 - omniAuth (if you don’t have google for run suite, it’s ok. If you have a google account, then use it, idiot)
 - simpleform
 
-### Punrto de partida
+### Punto de partida
 Como punto de partida estoy usando el [kickoff-tailwind](https://github.com/justalever/kickoff_tailwind) de [Andy Leverenz](https://github.com/justalever), que trae incorporado devise, friendly_id, sidekiq, y name_of_person. Este template está basado a su vez en [Jumpstart](https://github.com/excid3/jumpstart) de [Chris Oliver](https://twitter.com/excid3/). Por lo que se da el crédito correspondiente a todos ellos.
